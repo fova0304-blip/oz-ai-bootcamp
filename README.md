@@ -1,2 +1,1 @@
-# OZ-AI_Bootcamp
-- Git Practice
+# oz-ai-bootcamp
